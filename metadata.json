@@ -1,0 +1,6 @@
+{
+  "name": "Mabelight Generator & Heavy Equipment Services",
+  "description": "Premium landing and sales page for Mabelight Generator & Heavy Equipment Services - Reliable generators, genuine spare parts, expert repairs, and engine overhauling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
