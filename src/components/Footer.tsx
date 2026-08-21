@@ -89,7 +89,7 @@ export const Footer: React.FC = () => {
                 className="inline-flex items-center gap-2 px-4 py-2.5 rounded-2xl bg-orange-600 hover:bg-orange-500 text-white font-bold text-xs shadow-md shadow-orange-600/20 transition-all uppercase tracking-wider"
               >
                 <PhoneCall className="w-3.5 h-3.5" />
-                <span>Chat on WhatsApp</span>
+                <span>+234 909 514 0080</span>
               </a>
             </div>
             {SITE_CONFIG.businessEmail && (

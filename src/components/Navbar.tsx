@@ -43,9 +43,9 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenQuoteModal }) => {
             href={getWhatsAppUrl(SITE_CONFIG.whatsappMessages.heroQuote)}
             target="_blank"
             rel="noopener noreferrer"
-            className="hidden sm:inline-flex items-center gap-1.5 text-[11px] font-bold text-orange-400 hover:text-orange-300 shrink-0 uppercase tracking-widest"
+            className="hidden sm:inline-flex items-center gap-1.5 text-[11px] font-bold text-orange-400 hover:text-orange-300 shrink-0 uppercase tracking-widest font-mono"
           >
-            <PhoneCall className="w-3 h-3" /> WhatsApp Support
+            <PhoneCall className="w-3 h-3" /> +234 909 514 0080
           </a>
         </div>
       </div>

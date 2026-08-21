@@ -186,7 +186,7 @@ ${formData.equipmentModel ? `- Model/Capacity: ${formData.equipmentModel}` : ''}
                   <input
                     type="tel"
                     required
-                    placeholder="e.g. +234 800 000 0000"
+                    placeholder="e.g. +234 909 514 0080"
                     value={formData.phoneOrWhatsApp}
                     onChange={(e) => setFormData({ ...formData, phoneOrWhatsApp: e.target.value })}
                     className="w-full bg-slate-50 border border-slate-300 rounded-2xl px-4 py-3 text-sm text-slate-900 focus:outline-none focus:border-orange-600 font-medium"

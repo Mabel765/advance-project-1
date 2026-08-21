@@ -10,7 +10,7 @@
  * 
  * How to configure:
  * 1. WHATSAPP_PHONE_NUMBER: Enter your business WhatsApp phone number with 
- *    country code (no '+' or '-' symbols, e.g. "2348000000000" or "15551234567").
+ *    country code (no '+' or '-' symbols, e.g. "2349095140080").
  * 2. BUSINESS_EMAIL: Enter your public contact email (e.g. "mabelightb@gmail.com").
  * 3. WEBHOOK_URL: Optional external endpoint (e.g. Zapier, Make, or Google Sheets webhook)
  *    to receive form submissions. Leave as empty string "" if using WhatsApp only.
@@ -26,8 +26,9 @@ export const SITE_CONFIG = {
   tagline: "Reliable Equipment. Practical Solutions. Less Downtime.",
 
   // Primary Contact & Funnel Target
-  // --> Enter your WhatsApp phone number with country code (e.g. 2348012345678 or 1234567890)
-  whatsappPhoneNumber: "2348000000000",
+  // --> Enter your WhatsApp phone number with country code (e.g. 2349095140080)
+  whatsappPhoneNumber: "2349095140080",
+  displayPhoneNumber: "+234 909 514 0080",
 
   // Business Email address
   businessEmail: "mabelightb@gmail.com",
